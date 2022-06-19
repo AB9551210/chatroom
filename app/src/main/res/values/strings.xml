@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">612地下聊天室</string>
+    <string name="welcome_back">612地下聊天室</string>
+    <string name="login_to_continue">请使用VPN登录聊天账户</string>
+    <string name="email">邮箱</string>
+    <string name="password">密码</string>
+    <string name="sign_in">登 录</string>
+    <string name="create_new_account">创建新的聊天账户</string>
+    <string name="add_imge">添加头像</string>
+    <string name="name">昵称</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="sign_up">注册聊天账户</string>
+    <string name="select_user">聊天用户</string>
+    <string name="type_a_message">发送简讯</string>
+    <string name="online">用户在线</string>
+    <string name="changepassword">修改密码</string>
+    <string name="ButtonChangePassword">确认修改</string>
+    <string name="newPassword">新密码</string>
+    <string name="oldPassword">旧密码</string>
+    <string name="confirmNewPassword">确认新密码</string>
+    <string name="passwordButton">修改密码</string>
+    <string name="back">返回</string>
+    <string name="Three">3秒后跳过广告</string>
+</resources>
